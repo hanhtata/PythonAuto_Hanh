@@ -1,0 +1,37 @@
+table{
+    width: 800px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #444444;
+}
+.name{
+    color: #444444; 
+    font-size: 40px; 
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#author{
+    color: #7c7c7c;
+    font-weight: bold;
+    padding-right: 20px;
+}
+span{
+    font-size: 14px;
+    color: grey;
+}
+
+p{
+    text-align: justify;
+}
+img{
+    width: 100%;
+}
+.hashtag{
+    color: rgb(20, 122, 255);
+    font-style: italic;
+}
+
+.related{
+    font-weight: bold;
+}

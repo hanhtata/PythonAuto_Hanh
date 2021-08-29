@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    color: brown;
+}
+li{
+    list-style: none;
+    text-align: left;
+    font-size: 22px;
+    margin: 15px;;
+    
+}
+li a{
+    color: rgb(17, 119, 122);
+    
+}
