@@ -1,0 +1,28 @@
+.paragraph{
+    display: inline-block;
+    width: 1040px;
+    margin: 0 auto;
+    font-size: 25px;
+    line-height: 25px;
+    color: rgb(20, 19, 19);
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    padding-top: 50px;
+    margin-left: 500px;
+}
+.button{
+    width: 1040px;
+    margin: 0 auto;
+}
+.button1{
+    background: #a70e1a;
+    height: 40px;
+    position: relative;
+    font-size: large;
+    font-style: normal;
+    color: antiquewhite;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
