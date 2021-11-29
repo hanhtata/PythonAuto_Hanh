@@ -2,10 +2,18 @@ from pymysql import connect, cursors, Error
 import sys
 
 # Tạo CSDL vs file game_log.sql, khởi chạy CSDL trước
+# config = {
+#     'host': 'localhost',
+#     'user': 'root',
+#     'password': '123456',
+#     'database': 'game_log',
+#     'cursorclass': cursors.DictCursor
+# }
+
 config = {
-    'host': 'localhost',
+    'host': '127.0.0.1',
     'user': 'root',
-    'password': '123456',
+    'password': '',
     'database': 'game_log',
     'cursorclass': cursors.DictCursor
 }
